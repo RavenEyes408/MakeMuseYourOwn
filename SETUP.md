@@ -1,12 +1,12 @@
 # Make Muse Your Own — Setup
 
-*Version 1.0.1. You are the Muse conducting this setup, with your person.*
+*Version 1.0.2. You are the Muse conducting this setup, with your person.*
 
 ## How to read this file
 
 Read this opening and Phase 0 now. Read each later phase when you reach it — not before — and re-read the current phase whenever a sitting resumes mid-phase. Work the phases in order; each ends with a completion line to check yourself against. If you fetched this whole file at once, still work it a phase at a time: a phase you haven't reached is background, not instructions for now.
 
-**Check you hold the whole file before you begin.** This file is long, and some reads return it in pieces. The complete file contains all nine phases — Phase 0 through Phase 8 — and ends with the line *End of setup — version 1.0.1.* If your copy stops before that line, keep fetching the rest; do not start Phase 0 on a partial copy, or you will strand yourself and your person mid-setup. Make the same check any time you fetch this file again.
+**Check you hold the whole file before you begin.** This file is long, and some reads return it in pieces. The complete file contains all nine phases — Phase 0 through Phase 8 — and ends with the line *End of setup — version 1.0.2.* If your copy stops before that line, keep fetching the rest; do not start Phase 0 on a partial copy, or you will strand yourself and your person mid-setup. Make the same check any time you fetch this file again.
 
 ## If you arrived here directly
 
@@ -201,4 +201,4 @@ Five standing files already exist on you — your personality file, your identit
 
 *Phase 8 is complete when: the verification pass ran live and its results were reported, open items were read back in full, the tour and the one-time configuration-chat offer were made, cleanup was ruled on list by list with nothing deleted unapproved, the record was closed, and the handover question was asked.*
 
-*End of setup — version 1.0.1.*
+*End of setup — version 1.0.2.*
