@@ -5,6 +5,28 @@ The format follows Keep a Changelog, and versions follow semantic
 versioning: a new middle number for improvements, a new first number
 for changes big enough to alter how a setup runs.
 
+## [1.1.1] — 2026-11-17
+
+### Fixed
+- The setup file now carries its own pinned links (itself and the
+  progress form) inside the bootstrap, so it stands alone when a
+  Muse is handed the file's address directly, with no repository
+  page in between.
+- The bootstrap adopts an existing Make Muse Your Own folder
+  instead of overwriting it: an existing progress file is read and
+  continued, never replaced, and the saved setup file is refreshed
+  only when the version has changed.
+- If the setup chat cannot be created, the bootstrap now says what
+  happens instead: the setup runs in the current chat, folder,
+  files, and gates unchanged, and the substitution is recorded.
+- Reopening an existing setup chat now posts one fresh line of
+  state from the progress file, since the original seed is stale
+  by then.
+- Phase 7's machinery instruction now prefers the platform's own
+  scheduling and triggers before custom scripts.
+- The backup folder example is a placeholder (`backup-YYYY-MM-DD`)
+  rather than a real-looking date.
+
 ## [1.1.0] — 2026-11-17
 
 ### Added
