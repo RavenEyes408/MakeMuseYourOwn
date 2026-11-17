@@ -5,6 +5,45 @@ The format follows Keep a Changelog, and versions follow semantic
 versioning: a new middle number for improvements, a new first number
 for changes big enough to alter how a setup runs.
 
+## [1.1.0] — 2026-11-17
+
+### Added
+- The setup now runs in its own side chat, named **Make Muse Your
+  Own** — created after the person's yes, seeded with the version,
+  the source link, and the location of everything, and reopened
+  rather than duplicated on a resume or tune-up. When the setup
+  ends, the chat stays on as the configuration chat.
+- A workspace folder of the same name holds the setup's papers:
+  a saved copy of the setup file — verified complete before it is
+  saved, and read locally from then on, so the repository is
+  fetched once, at the start — the progress file, and the Phase 0
+  backup as a dated subfolder.
+- Two standing behaviors, settled in Phase 4 and written into the
+  proactivity preferences: thinking aloud is not an instruction,
+  and settled decisions are not re-raised as open questions.
+- Phase 8 says the training rule out loud at handover — a
+  correction given plainly is recorded as a standing rule — and
+  plants a tune-up sitting a week or two out.
+
+### Changed
+- The introduction now names the bootstrap machinery — the fetch,
+  the folder, the saved copies, the chat — before the person
+  agrees to begin. Their yes covers exactly those acts; everything
+  personal still waits for Phase 0 and its own go gate.
+- The conducting Muse reads the whole setup file once, up front,
+  in the setup chat (it holds a local copy now), then works phase
+  by phase as before.
+- Phase 2's voice step is an explicit ask, made after the look is
+  set, and uses the platform's voice picker: the person describes
+  the kind of voice they want and picks by ear from the matches
+  it returns. No voice list is hardcoded anywhere.
+- Phase 7 builds recurring tasks machinery-first: watching that
+  can be stated as plain rules is done by scripts or triggers,
+  and the agent wakes only for judgment.
+- Version statements and the README's pinned links now point at
+  1.1.0. A setup already running on 1.0.x finishes on the version
+  it started, as always.
+
 ## [1.0.2] — 2026-11-17
 
 ### Removed
