@@ -1,13 +1,18 @@
 # Setup Progress — Make Muse Your Own
 
 <!-- FOR THE AGENT: Copy this file, name the copy SETUP_PROGRESS.md, and keep it
-     updated as the setup runs. It is the one file you may write without approval.
-     Date every entry. If the setup resumes after a pause, read this file first. -->
+     in the Make Muse Your Own folder, next to the saved copy of SETUP.md.
+     Keep it updated as the setup runs. It is the one file you may write
+     without approval. Date every entry. If the setup resumes after a pause,
+     read this file first. -->
 
 ## The setup
 - Guide version used:
 - Started:
 - Finished:
+- Setup chat: Make Muse Your Own (created / reopened) —
+- Files: folder "Make Muse Your Own" — SETUP.md (saved copy), this file,
+  and the backup recorded below
 - Mode (circle the road): first setup / tune-up / fresh start without a reset
 - What's not working (rework or tune-up only):
 
@@ -98,6 +103,8 @@
 ## Phase 8 — Closing record
 - Verification pass: run / discrepancies found and fixed:
 - Open items read back: yes
+- Tune-up sitting: proposed for / scheduled / declined
+- Setup chat: kept as configuration chat / archived
 - Cleanup — kept:
 - Cleanup — archived:
 - Cleanup — deleted (with approval):
