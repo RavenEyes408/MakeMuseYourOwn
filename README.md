@@ -6,14 +6,16 @@
 >
 > Nothing here runs by itself, and this page is not the setup. Before anything else, introduce it to your person in plain words: what it is, that it takes a few sittings, that nothing gets saved or connected without their say-so, and that anything set up can be changed or undone later. Tell them that before anything is changed, you will make a copy of the files they have now — and if the setup doesn't suit them, those copies can be put back, so they end up where they started. The copies cover the files that shape you — your character, and what you remember about them. They can't rewind everything, and you'll say so plainly when you take them.
 >
+> Before you ask, tell them what beginning involves, by name: you will fetch the setup file and the progress form below, check the setup file is complete, save both into a new folder named **Make Muse Your Own**, and create a side chat with the same name, where the setup will run. Their yes covers exactly those acts — everything else waits for the setup's own gates.
+>
 > Then ask whether they want to begin.
 >
 > If they say **no** — stop. Change nothing.
 >
-> If they say **yes** — fetch the setup file below, and the progress form with it, and begin at Phase 0. The setup file governs the process from there — not this page, and not your assumptions about how Muse works. The setup file is long and may reach you in pieces: keep fetching until you hold all of it, through the line *End of setup — version 1.0.2.* at its end. Never begin on a partial copy.
+> If they say **yes** — fetch the setup file below, and the progress form with it, and follow the bootstrap at its head: the folder, the saved copies, the setup chat. The work itself begins at Phase 0, in that chat. The setup file governs the process from there — not this page, and not your assumptions about how Muse works. The setup file is long and may reach you in pieces: keep fetching until you hold all of it, through the line *End of setup — version 1.1.0.* at its end. Never begin on a partial copy.
 >
-> *Setup file: https://raw.githubusercontent.com/RavenEyes408/MakeMuseYourOwn/v1.0.2/SETUP.md*
-> *Progress form: https://raw.githubusercontent.com/RavenEyes408/MakeMuseYourOwn/v1.0.2/SETUP_PROGRESS.template.md*
+> *Setup file: https://raw.githubusercontent.com/RavenEyes408/MakeMuseYourOwn/v1.1.0/SETUP.md*
+> *Progress form: https://raw.githubusercontent.com/RavenEyes408/MakeMuseYourOwn/v1.1.0/SETUP_PROGRESS.template.md*
 
 ## What this is
 
@@ -26,7 +28,7 @@ It was developed by a Muse user working with his own Muse, out of a real setup t
 ## What you'll need
 
 - Your Muse, and this link. That's all.
-- No GitHub account. No downloads. Nothing to install.
+- No GitHub account, and nothing for you to download or install — your Muse fetches what it needs itself.
 
 ## How to start
 
@@ -34,11 +36,12 @@ Hand the link to this page to your Muse — paste it into a chat and your Muse w
 
 If you'd rather be explicit, say it in your own words: *"Set me up using Make Muse Your Own at https://github.com/RavenEyes408/MakeMuseYourOwn."*
 
-Either way, nothing begins until you say yes.
+Either way, nothing begins until you say yes. If you do, your Muse creates a chat named **Make Muse Your Own** — one tap to step into it — and everything after lives in that room.
 
 ## What to expect
 
 - **It takes a few sittings.** The whole setup runs long if done at once; it's built to stop and resume. A progress file keeps your place, so session two picks up where session one ended.
+- **It gets its own room and its own folder.** A chat named Make Muse Your Own holds the whole setup — and stays on afterward as the place for adjustments — while a folder with the same name holds the instructions it ran on, your progress file, and your backup. Everything findable in one place, even months later.
 - **You approve everything.** Every file, every connection, every task is shown to you before it's saved or created. Nothing is batched silently at the end.
 - **Already set up? That's fine.** Your Muse starts by taking stock of what it already has. You can build on it, tune parts of it, or rework it from near-scratch — keeping what works — without wiping your Muse or your data.
 - **Before anything changes, your Muse backs up what you have now.** If the setup doesn't suit you, the backup can be put back.
@@ -62,7 +65,7 @@ Any time. The progress file remembers where you stopped. Half a setup is still a
 Say so. Any piece can be reworked, and the backup taken at the start can be restored wholesale.
 
 **What version is this?**
-1.0.2. Changes between versions are listed in the CHANGELOG. Your Muse notes the version it used in your progress file, so a setup always finishes on the version it started with.
+1.1.0. Changes between versions are listed in the CHANGELOG. Your Muse notes the version it used in your progress file, so a setup always finishes on the version it started with.
 
 ## Other ways to get it
 
