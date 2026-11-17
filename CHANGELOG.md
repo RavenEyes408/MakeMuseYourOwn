@@ -5,13 +5,27 @@ The format follows Keep a Changelog, and versions follow semantic
 versioning: a new middle number for improvements, a new first number
 for changes big enough to alter how a setup runs.
 
+## [1.0.2] — 2026-11-17
+
+### Removed
+- The zip download route is gone — from the README, the release
+  notes, and this changelog. A zip was described in 1.0.0 and
+  1.0.1 but never actually attached to any release; rather than
+  keep promising a package that isn't there, the concept is
+  removed entirely. The repository link is the one way in, with
+  cloning as the technical alternative. (GitHub's own automatic
+  source download on the repository page is GitHub's, and stays
+  as it is.)
+
+### Changed
+- Version statements and the README's pinned links now point at
+  1.0.2. No setup content changed: the nine phases run exactly as
+  in 1.0.0 and 1.0.1, and a setup already running on an earlier
+  version finishes on that version, as always.
+
 ## [1.0.1] — 2026-11-17
 
 ### Fixed
-- The release now carries the zip the README describes. The 1.0.0
-  release notes promised one and none was attached; this release
-  has it — the same five files, for anyone whose Muse has trouble
-  reading from the link.
 - SETUP.md guards against partial reads. Its opening now tells the
   conducting Muse to check it holds the whole file — all nine
   phases, through a new closing line, *End of setup — version
@@ -46,8 +60,6 @@ for changes big enough to alter how a setup runs.
   fresh start without a reset.
 - SETUP_PROGRESS.template.md: the progress form that keeps the
   setup's place across sittings.
-- A zip of the same files attached to the release, for anyone whose
-  Muse has trouble reading from the link.
 
 Versions before 1.0.0 circulated privately as a paste-only draft.
 1.0.0 supersedes it.
