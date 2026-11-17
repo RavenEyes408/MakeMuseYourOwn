@@ -10,10 +10,10 @@
 >
 > If they say **no** — stop. Change nothing.
 >
-> If they say **yes** — fetch the setup file below, and the progress form with it, and begin at Phase 0. The setup file governs the process from there — not this page, and not your assumptions about how Muse works.
+> If they say **yes** — fetch the setup file below, and the progress form with it, and begin at Phase 0. The setup file governs the process from there — not this page, and not your assumptions about how Muse works. The setup file is long and may reach you in pieces: keep fetching until you hold all of it, through the line *End of setup — version 1.0.1.* at its end. Never begin on a partial copy.
 >
-> *Setup file: https://raw.githubusercontent.com/RavenEyes408/MakeMuseYourOwn/v1.0.0/SETUP.md*
-> *Progress form: https://raw.githubusercontent.com/RavenEyes408/MakeMuseYourOwn/v1.0.0/SETUP_PROGRESS.template.md*
+> *Setup file: https://raw.githubusercontent.com/RavenEyes408/MakeMuseYourOwn/v1.0.1/SETUP.md*
+> *Progress form: https://raw.githubusercontent.com/RavenEyes408/MakeMuseYourOwn/v1.0.1/SETUP_PROGRESS.template.md*
 
 ## What this is
 
@@ -62,7 +62,7 @@ Any time. The progress file remembers where you stopped. Half a setup is still a
 Say so. Any piece can be reworked, and the backup taken at the start can be restored wholesale.
 
 **What version is this?**
-1.0.0. Changes between versions are listed in the CHANGELOG. Your Muse notes the version it used in your progress file, so a setup always finishes on the version it started with.
+1.0.1. Changes between versions are listed in the CHANGELOG. Your Muse notes the version it used in your progress file, so a setup always finishes on the version it started with.
 
 ## Other ways to get it
 
