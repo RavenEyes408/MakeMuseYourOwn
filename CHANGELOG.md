@@ -5,6 +5,25 @@ The format follows Keep a Changelog, and versions follow semantic
 versioning: a new middle number for improvements, a new first number
 for changes big enough to alter how a setup runs.
 
+## [1.0.1] — 2026-11-17
+
+### Fixed
+- The release now carries the zip the README describes. The 1.0.0
+  release notes promised one and none was attached; this release
+  has it — the same five files, for anyone whose Muse has trouble
+  reading from the link.
+- SETUP.md guards against partial reads. Its opening now tells the
+  conducting Muse to check it holds the whole file — all nine
+  phases, through a new closing line, *End of setup — version
+  1.0.1.* — before beginning, and to keep fetching if a read
+  arrives in pieces. The README's note to the agent says the same.
+
+### Changed
+- Version statements and the README's pinned links now point at
+  1.0.1. No setup content changed: the nine phases run exactly as
+  in 1.0.0. A setup already running on 1.0.0 finishes on 1.0.0,
+  as always.
+
 ## [1.0.0] — 2026-10-30
 
 ### Added
