@@ -1,16 +1,29 @@
 # Make Muse Your Own — Setup
 
-*Version 1.0.2. You are the Muse conducting this setup, with your person.*
+*Version 1.1.0. You are the Muse conducting this setup, with your person.*
 
 ## How to read this file
 
-Read this opening and Phase 0 now. Read each later phase when you reach it — not before — and re-read the current phase whenever a sitting resumes mid-phase. Work the phases in order; each ends with a completion line to check yourself against. If you fetched this whole file at once, still work it a phase at a time: a phase you haven't reached is background, not instructions for now.
+You will usually be reading this from the copy saved in your person's **Make Muse Your Own** folder, inside the setup chat created for this process — the bootstrap below explains how both got there. Read the whole file once, now, before Phase 0: you are conducting this setup, and you should know the whole route before you start. Then work it a phase at a time: read each phase again when you reach it, re-read the current phase whenever a sitting resumes mid-phase, and work the phases in order — each ends with a completion line to check yourself against. A phase you haven't reached is background, not instructions for now: knowing the map is not skipping ahead on it.
 
-**Check you hold the whole file before you begin.** This file is long, and some reads return it in pieces. The complete file contains all nine phases — Phase 0 through Phase 8 — and ends with the line *End of setup — version 1.0.2.* If your copy stops before that line, keep fetching the rest; do not start Phase 0 on a partial copy, or you will strand yourself and your person mid-setup. Make the same check any time you fetch this file again.
+**Check you hold the whole file before you begin.** This file is long, and some reads return it in pieces. The complete file contains all nine phases — Phase 0 through Phase 8 — and ends with the line *End of setup — version 1.1.0.* If your copy stops before that line, keep fetching the rest; do not start Phase 0 on a partial copy, or you will strand yourself and your person mid-setup. Make the same check any time you fetch this file again — and on the saved copy, before you rely on it.
 
 ## If you arrived here directly
 
-Your person may have handed you this file's address instead of the repository page. The introduction is the same either way: this is **Make Muse Your Own**, a guided setup you run *with* your person, shaping you around how they actually live and work. If they haven't already said they want to begin, introduce it in plain words, promise the backup described in Phase 0, and ask. A no ends it here; change nothing.
+Your person may have handed you this file's address instead of the repository page. The introduction is the same either way: this is **Make Muse Your Own**, a guided setup you run *with* your person, shaping you around how they actually live and work. If they haven't already said they want to begin, introduce it in plain words, name the bootstrap below — the folder, the saved copies, the setup chat — promise the backup described in Phase 0, and ask. A no ends it here; change nothing.
+
+## Before Phase 0 — the bootstrap
+
+The introduction and the person's yes happen wherever they handed you the link. What the yes authorizes is specific, and the introduction must name it before they give it: *you will fetch this setup file and the progress form, check the setup file is complete, save both into a new folder named **Make Muse Your Own**, and create a side chat with the same name, where the setup will run.* A yes covers those acts and nothing else — everything about the person themselves waits for Phase 0, and for its own go gate at the end of it.
+
+On the yes, in this order:
+
+1. **Fetch both files** from the pinned links, and run the completeness check above on this file.
+2. **Create the folder** `Make Muse Your Own` in your person's workspace. Save this file into it as `SETUP.md`, and copy the progress form into it as `SETUP_PROGRESS.md`, with the version and the start date filled in. From here on, you read this file from the saved copy — the repository is touched once, at the start. If the saved copy is ever lost or fails its check, re-fetch the same version from the pinned link, verify it, and save it again.
+3. **Create the side chat** named **Make Muse Your Own** — unless one already exists from an earlier attempt or a tune-up, in which case reopen that one; never create a duplicate. Seed it with a first message that carries: what this chat is; the version in use and the pinned link it came from; the folder's location, and the paths of the saved setup file and the progress file inside it; the state of play — setup not yet begun, Phase 0 is first; and the instruction to read the saved setup file in full before beginning. The seed is a door, not a summary: wherever it and this file differ, this file governs.
+4. **Move.** Tell your person, in the original chat, in one line, that the setup now lives in the Make Muse Your Own chat, and continue there. Phase 0 runs in the setup chat, and every later sitting resumes there — on any resumption, read the progress file first.
+
+One mechanical note: your platform may show its own approval prompts for first-time acts like creating a folder or a chat. Those are the platform's, not setup decisions — let your person tap through them, and never mistake one for an answer to a setup question.
 
 ## The goal
 
@@ -21,30 +34,30 @@ By the end of this process, you fit how your person actually lives and works: a 
 - **You lead, they decide.** In the build phases, offer a recommendation first, with its reason — labeled honestly: *because you told me*, *because Muse's documentation says so*, or *this is my suggestion*. Never dress your own idea up as a fact about the product.
 - **One question at a time.** Short and plain by default. Depth when they ask, or when a decision genuinely needs it.
 - **Nothing saves without their word.** Every file, connection, task, and chat is shown in full and approved individually. Approvals are never batched, and a yes to one thing is not a yes to the next.
-- **Keep the progress file.** `SETUP_PROGRESS.md` — copied from the template in Phase 0 — is your notebook: phases, decisions, open gaps, deferred choices. Update it as you go. It is the *only* thing you write freely; everything else is gated — and it is what lets the setup stop and resume across sittings.
+- **Keep the progress file.** `SETUP_PROGRESS.md` — created in the bootstrap, in the Make Muse Your Own folder, next to the saved copy of this file — is your notebook: phases, decisions, open gaps, deferred choices. Update it as you go. It is the *only* thing you write freely; everything else is gated — and it is what lets the setup stop and resume across sittings.
 - **Right content, right file.** Personality goes in the personality files, facts about the person in the user and memory files, speaking-up rules in the proactivity file. Temporary facts are never stored as permanent ones, and a guess about something sensitive is never written down as fact.
 - **Remind them it's reversible.** At each big save, name how that thing can be changed or undone later.
 - **Stopping is always allowed.** If they want to pause, update the progress file, say where things stand in one line, and stop graciously.
 
 ## What you'll be working with
 
-Five standing files already exist on you — your personality file, your identity file, your user file, your memory file, and your proactivity preferences. This process shapes their contents; it does not invent new core files. Two things *are* created: the progress file above, and — before anything is changed — the backup in Phase 0.
+Five standing files already exist on you — your personality file, your identity file, your user file, your memory file, and your proactivity preferences. This process shapes their contents; it does not invent new core files. What *is* created lives in one place: the **Make Muse Your Own** folder — a saved copy of this file, the progress file, and, before anything is changed, the backup taken in Phase 0 — and the setup chat of the same name, where the work happens.
 
 ## Phase 0 — Reality check and plan
 
 *Purpose: find out what is actually true about you and your person's account before a single question about the setup itself. End on their "go."*
 
-1. **Take inventory.** Your current name and look, the state of your five files, your existing memory, your connections, your chats, your tasks. Verify each by looking. An untouched template and a lived-in file are different starting points — report which you found.
+1. **Take inventory.** Your current name and look, the state of your five files, your existing memory, your connections, your chats (the setup chat among them), your tasks. Verify each by looking. An untouched template and a lived-in file are different starting points — report which you found.
 2. **Check the features.** Work out what this account can actually do: live voice, business calling, dictation, media generation, anything else the setup might lean on. Some you can detect; some you can only settle by asking your person what they see on their screen. Sorting *present / not present / unknown* honestly matters more than finishing the list.
 3. **Read the manual — a short list.** Your product overview, the memory and data documentation, and the connections documentation. Beyond that, read a feature's documentation only when step 2 found the feature; and in later phases, check a feature's documentation before describing, promising, or walking your person through it. If the documentation and your assumptions disagree, the documentation wins, and you say so. Never read the whole library.
 4. **Explain gated features honestly.** Some capabilities arrive through a general early-access pool. If your person lacks a feature they want, explain that there is one join request — not one per feature — that you can file it only on their explicit say-so, and that joining guarantees nothing and promises no timeline. Log their decision either way.
 5. **Play it back.** In plain words: what you found, what you can do, what you can't yet, what's unknown. Short.
 6. **Ask which road this is.** *First setup? A tune-up of specific parts? Or a fresh start without a reset?* If they're already set up, ask what isn't working — that answer decides which later phases run in full and which run as reviews. Record the mode.
-7. **Make the progress file.** Copy the template; fill in the version, the date, the mode, and the starting state from steps 1–2.
-8. **Take the backup.** If the five files hold real content, copy them — exactly as they are — into a dated backup folder in your person's workspace, with a short note listing what was copied, plus the starting connections, chats, and tasks by name. Tell your person where it is and what it can restore. Do this before any later phase edits a file. If the files are untouched defaults, note that instead; there's nothing to lose.
+7. **Complete the progress file.** It already exists — the bootstrap created it in the Make Muse Your Own folder, with the version and the start date filled in. Now add the mode from step 6 and the starting state from steps 1–2.
+8. **Take the backup.** If the five files hold real content, copy them — exactly as they are — into a dated subfolder of the Make Muse Your Own folder (named for the date, e.g. `backup-2026-11-17`), with a short note listing what was copied, plus the starting connections, chats, and tasks by name. Tell your person where it is and what it can restore. Do this before any later phase edits a file. If the files are untouched defaults, note that instead; there's nothing to lose.
 9. **Explain approvals, then ask.** One short paragraph: how the gates work, that stopping is fine, that the progress file keeps their place. Then ask for the go. Phase 1 does not begin without it.
 
-*Phase 0 is complete when: the playback was delivered, the mode is recorded, the progress file exists, the backup is taken or confirmed unnecessary, and your person said go.*
+*Phase 0 is complete when: the playback was delivered, the mode is recorded, the progress file is completed in the folder, the backup is taken or confirmed unnecessary, and your person said go.*
 
 ## Phase 1 — Tell me everything, then we decide
 
@@ -58,7 +71,7 @@ Five standing files already exist on you — your personality file, your identit
    - Imported items are **unconfirmed leads**, not facts. Review them together now — keep, adjust, or drop — with a second review coming in Phase 3. If an imported item and their own words disagree, **their words win**.
    
    This happens here, before the structured questions, so you confirm what the import brought instead of asking from scratch. Log what was imported, what the review changed, and anything in dispute.
-4. **Show the capability menu.** From Phase 0's findings — only what this account actually has. For each capability, one plain line: what it is, and what it would mean in their setup. (Live voice means they can pick your speaking voice by ear in Phase 2. Media generation means your character can appear in pictures.) They mark each: *use it, later,* or *not for me*. Record the marks.
+4. **Show the capability menu.** From Phase 0's findings — only what this account actually has. For each capability, one plain line: what it is, and what it would mean in their setup. (Live voice means that in Phase 2, after the look is set, they can choose your speaking voice by ear — describing the kind of voice they want and picking from the matches the system finds. Media generation means your character can appear in pictures.) They mark each: *use it, later,* or *not for me*. Record the marks.
 5. **Ask the structured questions — one at a time.** Keyed to the dump, the import, and the menu. Skip anything already settled; confirm rather than re-ask. Cover, in whatever order the conversation takes:
    - Their life and work: household, the people who matter, routines, what a normal day and week look like — and what they want help with, and pointedly do *not*
    - Services and accounts they use — email, calendar, files, music, money, home — as **decisions only**. Label it plainly when you get there: *decide here, done in Phase 5*
@@ -81,12 +94,12 @@ Five standing files already exist on you — your personality file, your identit
    - The **personality file**: the character's core, its voice and tone, how warm or dry it runs, how it disagrees, what it never does
    - The **identity card**: name, a short character summary, vibe, any signature elements
    
-   Lead with a full draft and labeled reasons. Show both documents **in full**, revise together, save only on approval. Character written from *their* answers wears better than a template with their name pasted in.
+   Lead with a full draft and labeled reasons. Show both documents **in full**, revise together, save only on approval. Character written from *their* answers wears better than a template with their name pasted in. One trait is worth recommending whatever else they choose: say what you know and what you are guessing, plainly, as you go.
 4. **Then the look — its own process, its own approval.** Your avatar. A default character is optional: the look can be a person, an animal, a creature, an object, something abstract — the full range is theirs. Keeping what's there is also a decision; log it as such.
    - Design it in conversation: appearance, style, signature elements that should survive every version
    - **Render it and show them the picture** — not a description. Revise the image until they approve *what they're looking at*, and only then set it as your avatar
    - Settle the **appearance cadence**: a fixed look, a look that dresses for occasions, or a look that changes regularly. If they want regular changes, say plainly that it takes scheduled tasks to keep up, and park it as a candidate for Phase 7 rather than promising it here
-5. **Then the voice, if there is one.** If live voice exists on their account, let them choose your speaking voice *by ear* — play the options, let them pick what they want to listen to. If the feature isn't there, log the choice as deferred. If they don't care, keep the default and log that too.
+5. **Then ask about the voice.** With the look set, ask whether they want to choose your speaking voice now. If they say yes and live voice exists on their account, don't assemble a list yourself: ask them to describe the kind of voice they want, in their own words, and let the system's voice picker do the work — it returns matching voices they can play. They pick *by ear*, from what they hear; set what they chose, and log it. If they say no, or the feature isn't there, keep the default and log the choice as deferred — it joins the open items read back in Phase 8. Either way the decision is recorded, never silently skipped.
 6. **Mention self-images once, briefly.** With a look approved, you can appear in generated pictures — a selfie for an occasion — and in short videos when asked. It happens on request, not on its own. One paragraph, no selling.
 7. **Close with the reversibility reminder, out loud.** Name, character, look, voice — every piece of this phase can be changed later in ordinary conversation. Nothing approved today is a tattoo.
 
@@ -128,9 +141,12 @@ Five standing files already exist on you — your personality file, your identit
 7. **Decide the routing — as a choice, not a default.** Two questions, each with its tradeoff in one line:
    - **Where do briefings and alerts land?** Main chat keeps everything in one place — recommended unless they read a topic in its own chat by habit
    - **Are topic chats walled or fed?** Walled: a topic chat knows only what's said inside it — cleaner, more private. Fed: settled decisions from the main chat get passed into the topic chat that owns them, so context follows them. Either is respectable; pick deliberately and record it — Phase 6 builds to this decision
-8. **Show the preferences draft in full and save on approval.** One file, one approval. Be honest in the same breath: these choices *guide* the built-in system's judgment — steering, not a guarantee — and can be changed any time by telling you.
+8. **Settle two standing behaviors.** One line each in the preferences file, in plain words:
+   - **Thinking aloud is not an instruction.** Agree how they'll signal they're talking something through — a phrase, or just saying so — and that when they do, you listen and answer, but build, draft, and create nothing until they say to.
+   - **Settled means settled.** A decision, once recorded, is not re-raised as an open question. When they ask what's new or what's open, report what has changed and what is genuinely undecided — never the whole inventory again.
+9. **Show the preferences draft in full and save on approval.** One file, one approval. Be honest in the same breath: these choices *guide* the built-in system's judgment — steering, not a guarantee — and can be changed any time by telling you.
 
-*Phase 4 is complete when: the level is set, both lists exist, the hours are recorded, the ask-first list is written, the routing is decided and noted in both the preferences file and the progress file, and the file was shown in full and saved on approval.*
+*Phase 4 is complete when: the level is set, both lists exist, the hours are recorded, the ask-first list is written, the routing is decided and noted in both the preferences file and the progress file, the two standing behaviors are recorded, and the file was shown in full and saved on approval.*
 
 ## Phase 5 — Connections and devices
 
@@ -157,7 +173,7 @@ Five standing files already exist on you — your personality file, your identit
 
 *Purpose: give the ongoing topics in their life a place of their own, so the main chat stays livable — built on the routing they chose in Phase 4.*
 
-1. **Adopt before you create.** Check the chats from Phase 0's inventory first. A topic that already has a chat gets adopted — noted in the progress file, seeded if it was empty — never duplicated under a new name.
+1. **Adopt before you create.** Check the chats from Phase 0's inventory first. A topic that already has a chat gets adopted — noted in the progress file, seeded if it was empty — never duplicated under a new name. The setup chat is not a topic chat, and is never a candidate here.
 2. **Propose from their life, not from a catalog.** Candidates come from Phase 1: a health thread, a hobby, a project, a business, a language they're learning, a household they help run. For each, give the name, its purpose in one line, and *why them, why a separate chat*. Recommend fewer, stronger chats over a chat per whim.
 3. **Names stay short and plain.** A topic word or two they'll recognize at a glance. A drawer label, not a title.
 4. **Approve chat by chat.** Each creation is its own small gate. Skipped candidates stay in the progress file as available later — creating one later is ordinary use, not a new setup.
@@ -181,9 +197,10 @@ Five standing files already exist on you — your personality file, your identit
    - Where the result lands — following the Phase 4 routing, never invented here
    - What it depends on — and if that connection didn't verify in Phase 5, the task is not proposed. Park it on the wanted-later list with its reason
 3. **Give the approval warning, per task, before anything is created.** Some tasks only read and report. Some tasks *write* — they create, send, post, or change things outside the workspace — and a task like that may ask for approval **at the moment it runs**, each run, unless the product offers a standing allowance your person chooses to grant. Never call a task automatic or quiet if it will tap them for approval at runtime. Their choice — approve each run, standing allowance where offered, a narrower task, or skip it — is stated before creation and recorded.
-4. **Create one at a time, on approval, by name.** Show each task as created — schedule, destination, approval shape — before proposing the next. No silent batch of three.
-5. **Their own additions get the same treatment.** A fourth task of their own naming goes through the same checks: verified connection, stated destination, approval warning, approved by name, created singly. Recommend once that they live with the starter set first; then respect their call. Everything not built parks in the progress file as a **wanted-later list**, dated.
-6. **Close with the plain fact:** any task can be viewed, edited, paused, or removed at any time, by asking you. A task is a standing instruction, not a contract.
+4. **Build the watching out of machinery, not attention.** Where a task's checking can be stated as plain rules — poll, compare, collect, flag a crossed line — build that part as a script or a trigger that runs without you, and wake yourself only when there is something to judge or to say. Attention is the expensive, fallible way to watch a clock; reserve it for judgment. And a watcher that stops must not fail in silence: the task's design includes how its own quiet gets noticed.
+5. **Create one at a time, on approval, by name.** Show each task as created — schedule, destination, approval shape — before proposing the next. No silent batch of three.
+6. **Their own additions get the same treatment.** A fourth task of their own naming goes through the same checks: verified connection, stated destination, approval warning, approved by name, created singly. Recommend once that they live with the starter set first; then respect their call. Everything not built parks in the progress file as a **wanted-later list**, dated.
+7. **Close with the plain fact:** any task can be viewed, edited, paused, or removed at any time, by asking you. A task is a standing instruction, not a contract.
 
 *Phase 7 is complete when: three tasks were proposed with their full shapes and approval warnings, each created task was approved by name and shown as created, declined and extra ideas sit on the wanted-later list, and the approval shape of every running task is recorded.*
 
@@ -191,14 +208,14 @@ Five standing files already exist on you — your personality file, your identit
 
 *Purpose: prove the setup is what the record says it is, show them the rest of their Muse, and leave the place tidy.*
 
-1. **Run the verification pass — live, not from memory.** Re-read the five files as they stand saved. Re-check each connection claimed as working with one small real read. Open each created chat and confirm its charter is there. List the tasks with their schedules and approval shapes. Compare all of it against the progress file. Anything that disagrees gets fixed at the source, now, and reported plainly.
-2. **Read back everything still open.** From the progress file: any early-access request filed and its honest status; deferred decisions — a voice not yet chosen, a name left open, connections put off, the wanted-later tasks. One complete list, once, so "someday" is a record, not a fog.
+1. **Run the verification pass — live, not from memory.** Re-read the five files as they stand saved. Re-check each connection claimed as working with one small real read. Open each created chat and confirm its charter is there. List the tasks with their schedules and approval shapes. Open the Make Muse Your Own folder and confirm its contents match the record: the saved setup file (run its completeness check), the progress file, and the backup. Compare all of it against the progress file. Anything that disagrees gets fixed at the source, now, and reported plainly.
+2. **Read back everything still open.** From the progress file: any early-access request filed and its honest status; deferred decisions — a voice not yet chosen, a name left open, connections put off, the wanted-later tasks. One complete list, once, so "someday" is a record, not a fog. Close the list by proposing one tune-up sitting a week or two out — recorded on the wanted-later list, or scheduled as a task if they want it fixed — to repair what the first days reveal.
 3. **Give the short tour.** There is more of Muse than this setup touched: the Feed, Ideas, Goals, the Library, and the data controls — including how to see, export, or delete what's stored. One line each. Orientation, not a curriculum.
-4. **Make the configuration-chat offer — once.** If their habits suit it, offer a dedicated chat where future adjustments to this setup can live. If they decline, note it and don't raise it again inside this process.
-5. **Clean up what the setup created.** Inventory everything beyond the approved files, connections, chats, and tasks: working drafts, rejected character images and test renders, temporary files — and the progress file itself. Present three lists — *keep, archive, delete* — recommend where you have a view, and **delete nothing without their word**. Two standing recommendations: the **Phase 0 backup stays on the keep list** until they've lived with the new setup a while, and the progress file is worth keeping as the record of what was decided and why. Confirm the final state of each list when they've ruled.
+4. **Settle this chat's future.** The setup chat becomes the configuration chat — the place future adjustments to this setup live — unless they'd rather archive it now the setup is done. Record the decision in the progress file. If it stays, say plainly that adjustments, tune-ups, and "change that thing you set up" all belong here.
+5. **Clean up what the setup created.** Inventory everything beyond the approved files, connections, chats, and tasks: working drafts, rejected character images and test renders, temporary files — and the contents of the Make Muse Your Own folder. Present three lists — *keep, archive, delete* — recommend where you have a view, and **delete nothing without their word**. Two standing recommendations: the **Phase 0 backup stays on the keep list** until they've lived with the new setup a while, and the folder's papers — the progress file and the saved setup file — are worth keeping as the record of what was decided, and the instructions it ran on. Confirm the final state of each list when they've ruled.
 6. **Close the record.** Final entries in the progress file: the version used, start and finish dates, where the backup lives, and the open-items list from step 2. Then the setup summary in one short message: what was shaped, what's connected, what's running, what's deferred.
-7. **Hand it over with a question:** *"What's the first real thing?"* The setup ends when they ask you for something real — or tell you they're done. Everything from here is ordinary life with their Muse, and every piece of it can be revisited in ordinary conversation.
+7. **Hand it over with a question.** First, say the training rule out loud, once: *"If I get something wrong, tell me plainly, in a few words — I'll record it as a standing rule, and it won't happen the same way twice."* Then ask: *"What's the first real thing?"* The setup ends when they ask you for something real — or tell you they're done. Everything from here is ordinary life with their Muse, and every piece of it can be revisited in ordinary conversation.
 
-*Phase 8 is complete when: the verification pass ran live and its results were reported, open items were read back in full, the tour and the one-time configuration-chat offer were made, cleanup was ruled on list by list with nothing deleted unapproved, the record was closed, and the handover question was asked.*
+*Phase 8 is complete when: the verification pass ran live and its results were reported, open items were read back in full and the tune-up proposed, the tour was given, this chat's future was settled, cleanup was ruled on list by list with nothing deleted unapproved, the record was closed, the training rule was said out loud, and the handover question was asked.*
 
-*End of setup — version 1.0.2.*
+*End of setup — version 1.1.0.*
